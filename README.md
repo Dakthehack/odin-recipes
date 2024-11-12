@@ -1,1 +1,1 @@
-reflect on what this project is. 
+Goal was to create three recipes with ingredients and instructions on how to create the dish. Linked them back to the index.html file. Uploaded them to github. 
